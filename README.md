@@ -82,9 +82,8 @@ winner of the next turn wins these cards as well.
 Pull the code from git.
 git location:https://github.com/inskumar042/CardGames
 
-  ```
 
-## Installation
+### Installation
 
 
 ### Using Miscrosoft Visual Studio 2019 editor
