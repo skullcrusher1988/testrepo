@@ -39,6 +39,8 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#Using Miscrosoft Visual Studio 2019 editor">Using Miscrosoft Visual Studio 2019 editor</a></li>
+        <li><a href="#Using Command Prompt">Using Command Prompt</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -79,6 +81,7 @@ winner of the next turn wins these cards as well.
 
 Pull the code from git.
 git location:https://github.com/inskumar042/CardGames
+
   ```
 
 ## Installation
