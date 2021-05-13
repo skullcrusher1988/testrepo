@@ -43,7 +43,6 @@
         <li><a href="#Using-Command-Prompt">Using Command Prompt</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
 
