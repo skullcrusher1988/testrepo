@@ -39,8 +39,8 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#Using Miscrosoft Visual Studio 2019 editor">Using Miscrosoft Visual Studio 2019 editor</a></li>
-        <li><a href="#Using Command Prompt">Using Command Prompt</a></li>
+        <li><a href="#Using-Miscrosoft-Visual-Studio-2019-editor">Using Miscrosoft Visual Studio 2019 editor</a></li>
+        <li><a href="#Using-Command-Prompt">Using Command Prompt</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -108,13 +108,4 @@ cd to the folder containing the solution file and the project file
 
  Run:
  dotnet run CardGame
-   ```
-
-
-
-
-
-
-
-
 
